@@ -1,0 +1,1 @@
+echo "Testing nano on linux distribution"
